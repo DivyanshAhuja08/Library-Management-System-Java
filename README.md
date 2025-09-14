@@ -103,7 +103,7 @@ java college.Library
 **Divyansh Ahuja**
 
 * [GitHub](https://github.com/DivyanshAhuja08)
-* [LinkedIn](https://www.linkedin.com/in/divyansh-ahuja/)
+* [LinkedIn](https://www.linkedin.com/in/divyanshahuja08)
 
 ---
 
