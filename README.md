@@ -60,20 +60,6 @@ college/
 
 ---
 
-## Demo
-**Example GIF/Flow of the program** (replace with your actual demo GIF if available):
-
-![Library Demo](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
-
-**Steps in demo:**
-1. Register students.
-2. Add new books.
-3. Search books by ISBN or author.
-4. Check out and check in books.
-5. Display all students and books.
-
----
-
 ## How to Run
 1. **Clone the repository**
 ```bash
